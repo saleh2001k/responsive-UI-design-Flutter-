@@ -1,6 +1,5 @@
-# flutter_application_3
+# responsive-UI-design-Flutter
 
-A new Flutter project.
 
 ## Getting Started
 
